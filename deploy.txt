@@ -13,3 +13,10 @@ aws eks update-kubeconfig --name lab-kube
 kubectl get svc
 
 kubectl version
+
+
+VPC
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-12-10/amazon-eks-vpc-sample.yaml
+
+Nodes
+https://amazon-eks.s3-us-west-2.amazonaws.com/cloudformation/2018-12-10/amazon-eks-nodegroup.yaml
